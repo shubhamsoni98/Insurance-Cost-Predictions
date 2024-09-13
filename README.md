@@ -28,7 +28,7 @@ The dataset contains the following columns:
 
 To run the code, ensure you have the following Python libraries installed:
 
-```bash
+`bash
 pip install pandas numpy seaborn matplotlib scikit-learn
 
 ## Usage
